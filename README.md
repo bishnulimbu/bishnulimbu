@@ -1,6 +1,6 @@
 
 # 💻 Tech Stack:
-JavaScript, React, Node
+JavaScript, React, Node... laravel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bishnulimbu&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bishnulimbu&theme=default&hide_border=false)<br/>
