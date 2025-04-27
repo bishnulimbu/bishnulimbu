@@ -1,15 +1,68 @@
+---
 
-# 💻 Tech Stack:
-JavaScript, React, Node... laravel
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bishnulimbu&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bishnulimbu&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishnulimbu&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 👋 Hi, I'm [Your Name]!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bishnulimbu&theme=default&no-frame=false&no-bg=true&margin-w=4)
+I'm a passionate **Full-Stack Developer** who loves building scalable, user-friendly web applications. I specialize in **JavaScript**, **React**, **Node.js**, and **Laravel**, with a knack for crafting clean code and solving complex problems.
+
+🌍 Based in [Nepal]  
+📫 Reach me at: [your.email@example.com]  
+🔗 Connect with me: [LinkedIn URL] | [Portfolio URL] | [Twitter/X URL]
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bishnulimbu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo= -style=flat)
+
+- **Frontend**: React, TypeScript, HTML, CSS, Tailwind CSS
+- **Backend**: Node.js, Express, Laravel, PHP
+- **Tools & DevOps**: Git, Docker, AWS, CI/CD
+- **Databases**: MySQL, MongoDB, PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true)
+
+---
+
+## 🌟 Featured Projects
+
+- **[Project Name 1](https://github.com/yourusername/project1)**  
+  A [brief description, e.g., "Task management app built with React and Node.js"].  
+  🛠️ Tech: React, Node.js, MongoDB  
+  ⭐ [Number of stars] | 🛠️ [Status: Completed/In Progress]
+
+- **[Project Name 2](https://github.com/yourusername/project2)**  
+  A [brief description, e.g., "E-commerce platform using Laravel and MySQL"].  
+  🛠️ Tech: Laravel, MySQL, Tailwind CSS  
+  ⭐ [Number of stars] | 🛠️ [Status: Completed/In Progress]
+
+---
+
+## 📝 Recent Blog Posts
+
+- [Blog Post Title 1](https://yourblog.com/post1) - A quick guide to [topic].  
+- [Blog Post Title 2](https://yourblog.com/post2) - Lessons learned from [topic].
+
+---
+
+## 📈 Visitor Count
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0)
+
+---
+
+*Built with ❤️ using [GPRM](https://gprm.itsvg.in)*
+
+---
+
