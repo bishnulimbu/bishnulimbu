@@ -1,22 +1,20 @@
----
-See the error here....??
-# 👋 Hi, I'm [Your {Bishnu Limbu} Name]!
+# 👋 Hi, I'm Bishnu Limbu!
 
 I'm a passionate **Full-Stack Developer** who loves building scalable, user-friendly web applications. I specialize in **JavaScript**, **React**, **Node.js**, and **Laravel**, with a knack for crafting clean code and solving complex problems.
 
-🌍 Based in [Nepal]  
-📫 Reach me at: [your.email@example.com]  
+🌍 Based in Nepal  
+📫 Reach me at: subashlimbu987654321@gmail.com  
 🔗 Connect with me: [LinkedIn URL] | [Portfolio URL] | [Twitter/X URL]
 
 ---
 
 ## 🛠️ Tech Stack
 
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo= -style=flat)
-
 - **Frontend**: React, TypeScript, HTML, CSS, Tailwind CSS
 - **Backend**: Node.js, Express, Laravel, PHP
 - **Tools & DevOps**: Git, Docker, AWS, CI/CD
@@ -40,12 +38,12 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, user-frie
 - **[Project Name 1](https://github.com/yourusername/project1)**  
   A [brief description, e.g., "Task management app built with React and Node.js"].  
   🛠️ Tech: React, Node.js, MongoDB  
-  ⭐ [Number of stars] | 🛠️ [Status: Completed/In Progress]
+  ⭐ Stars: [Number] | 🛠️ Status: Completed/In Progress
 
 - **[Project Name 2](https://github.com/yourusername/project2)**  
   A [brief description, e.g., "E-commerce platform using Laravel and MySQL"].  
   🛠️ Tech: Laravel, MySQL, Tailwind CSS  
-  ⭐ [Number of stars] | 🛠️ [Status: Completed/In Progress]
+  ⭐ Stars: [Number] | 🛠️ Status: Completed/In Progress
 
 ---
 
@@ -63,6 +61,3 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, user-frie
 ---
 
 *Built with ❤️ using [GPRM](https://gprm.itsvg.in)*
-
----
-
